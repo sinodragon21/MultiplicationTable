@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">九九乘法练习</string>
+    <string name="multiplication_sign">x</string>
+    <string name="equals_sign">=</string>
+    <string name="confirm">确认提交</string>
+    <string name="right">正确✔️</string>
+    <string name="wrong">错误❌</string>
+    <string name="right_answer">正确答案：</string>
+    <string name="next_question">下一题</string>
+</resources>
